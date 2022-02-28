@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fatal blow given to the Earle of Newcastles armie, by the Scots, certified by letters read in the House of Commons this present Munday, Aprill. 8. 1644. 500 slain of the enemy upon the ground, a numerous company taken prisoners, Sir Marmaduke Langdale and most of his chiefe commanders slain. All their ordnance, bag and bagage, and the whole armie utterly ronted [sic]. With a report by a messenger sent from the English Commissioners at Sunderland, with letters By William Row. Secretary to the Commissioners.</title>
+            <author>Row, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92022</idno>
+            <idno type="STC">Wing R2061</idno>
+            <idno type="STC">Thomason E40_31</idno>
+            <idno type="STC">ESTC R11601</idno>
+            <idno type="EEBO-CITATION">99859076</idno>
+            <idno type="PROQUEST">99859076</idno>
+            <idno type="VID">111140</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111140)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E40[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fatal blow given to the Earle of Newcastles armie, by the Scots, certified by letters read in the House of Commons this present Munday, Aprill. 8. 1644. 500 slain of the enemy upon the ground, a numerous company taken prisoners, Sir Marmaduke Langdale and most of his chiefe commanders slain. All their ordnance, bag and bagage, and the whole armie utterly ronted [sic]. With a report by a messenger sent from the English Commissioners at Sunderland, with letters By William Row. Secretary to the Commissioners.</title>
+                  <author>Row, William.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Coe, and published according to order,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M DC XLIV. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With an issue of Mercurius aulicus dated March 23, 1643.</note>
+                  <note>Annotation on Thomason copy: "April: 8th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Sunderland (Tyne and Wear, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111140:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>
+               <hi>The fatal</hi> BLOW Given to the EARLE OF Newcaſtles Armie, BY THE SCOTS, <hi>Certified by Letters read in the Houſe of Commons this preſent Munday,</hi> Aprill. 8. 1644.</p>
+            <p>500 Slain of the enemy upon the ground, A numerous company taken priſoners, Sir <hi>Marmaduke Langdale</hi> and moſt of his chiefe Commanders ſlain.</p>
+            <p>All their Ordnance, Bag and Bagage, And the whole Armie utterly ronted.</p>
+            <p>With A Report by a Meſſenger ſent from the Engliſh Commiſſioners at <hi>Sunderland,</hi> with Letters</p>
+            <p>By <hi>William Row.</hi> Secretary to the Commiſſioners.</p>
+            <p>Printed by <hi>Andrew Coe,</hi> and publiſhed according to Order, MDCXLIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:111140:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>The last proceedings from the Scots Army</head>
+            <p>MAach the 25 and 6 there was a great fight neere Sunderland, there was of the Scots about 300 wounded, ſome of them ſlain, and others ſince dead to the number of about 60, this was all the loſſe we ſuſtained in that fight, which was within ſome 2 miles of the north of Sunderland: But of the Earl of Newcaſtles men there were ſlain at the leaſt 1500 a<g ref="char:EOLhyphen"/>mongſt which were divers of great quality: Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale</hi> was ſlain and divers of great note, ſome of them his Excellencie Generall <hi>Leſley</hi> gave them the credit of an honourable buriall according to their degreea, amongſt which were at the leaſt 30 Co<g ref="char:EOLhyphen"/>lonels, Majors, Captains, and Lievtenants, beſides other Officers, and there were taken priſoners from the enemie almoſt a hundred. They retreated towards Newcaſtle, the Scots purſued them very cloſe, Then the Earle of Newcaſtles Forces ſpread themſelves and diſperced towards Cheſtry ſtreete and ſo to Durham, and quartered towards Biſhop Anckland, and Branſ<g ref="char:EOLhyphen"/>pith to ſee if they could rally their men, but the Scots ſtill purſued them, cleering the way up the River as they went.</p>
+            <pb facs="tcp:111140:2"/>
+            <!-- PDF PAGE 20 -->
+            <p>March the twentie ſeventh, the Scots marched to wards Lumley Caſtle to cleer the River for Coals, his Excellencie the Lord Generall having then eight pee<g ref="char:EOLhyphen"/>ces of Ordnance carried from the ſhips, for before hee had only two peeces, ſave only his ſmall pieces where<g ref="char:EOLhyphen"/>with good execution was done.</p>
+            <p>From the twentie ſeventh of March, to the end of the moneth, the Scots were and ſo are ſtill in purſuit of the enemie: the Earle of Newcaſtle all this while: not having taken a man of the Scots Armie to my knowledge, but there are daily many that deſert the enemie, and come into us both from Newcaſtle, and alſo from the Armie, ſeven or eight everie day: ſome daies more, who take the Covenant and join with our forces: there hath thus come in at the leaſt 200 and more come in daily: declaring that they were forced againſt their wils to fight under the Earl of Newcaſtle, and that in the fight the Earl of Newcaſtles horſe did force them to fight, and kept them in with their Canes and Swords: &amp; hurt, piſtold, and ſlue many that retrea<g ref="char:EOLhyphen"/>ted: and they do alſo affirm, that there are many more in the Earle of Newcaſtles Armie that would faine come away, if they had an opportunitie.</p>
+            <p>Since there hath been many skirmiſhes, but none conſiderable before the date hereof, but the Scots ſtill purſue the enemie to prevent them as much as they can from Rallying.</p>
+            <p>The Commiſſioners are come from Morpeth, and are all at Sunderland. The laſt of the Commiſſioners came to Sunderland this preſent Munday, being the firſt of April: which is a place where is great ſtrait of proviſion, ſo that from thence Thurſday before, Ge<g ref="char:EOLhyphen"/>neall
+<pb facs="tcp:111140:3"/>
+               <!-- PDF PAGE 21 -->
+               <hi>Leſhley</hi> removed his Quarters, and carried away bag and bggage: only 3000 he left for that Garriſon, and, and er neere it, and hath fortified the Town verie wellr parſecured all places as he leaves them. But an<g ref="char:EOLhyphen"/>othe hint of the enemie lying towards Lumly Caſtle; hath ipsdred the Lighters from carrying the Coals to the ſhto; but there was a Convoy to have gone with them, the ſhips, had not the battle prevented, but there is no doubt but the enemie will be removed ſo<g ref="char:EOLhyphen"/>dainly, and Coals ſent ſpeedily to London: There are about 120 ſhips that ride in Sunderland Harbour for Coals, and there is ſo great a quantitie of Coals alrea<g ref="char:EOLhyphen"/>die above the ground at the Pits readie to be taken a<g ref="char:EOLhyphen"/>way, that they are not to be valued: there is ſo vaſta quantitie: and the Commiſſioners are reſolved upon this courſe, to ſerve thoſe ſhips firſt with Coals that bring proviſion; which is but reaſon, their being ſuch want of proviſion amongſt our men, not only to ſup<g ref="char:EOLhyphen"/>ply the Armie; but alſo to encourage others that come for coals thither to bring proviſion with them.</p>
+            <p>Sir <hi>Tho: Glenham</hi> is in Newcaſtle, but few co<g ref="char:cmbAbbrStroke">̄</g>ſiderable men of note, nor as ſome that come out from thence to our men, certifie not above 120 Souldiers beſides the Inhabitants, and they have denied the Earle of Newcaſtle to come in or any of his Forcrs: more then what are in the Town already, till they ſee who ſhall win the field.</p>
+            <p>The Town begins to be much ſtraitned of proviſi<g ref="char:EOLhyphen"/>on, and are out of hope to have any reliefe, eſpecially ſince the Earl of Newcaſtle is driven Southward, and the Scots compaſſe the Town both by Sea and Land, in Northumberland and in the Biſhodrick, and they
+<pb facs="tcp:111140:3"/>
+               <!-- PDF PAGE 21 -->are blockt up by water, our Forces commanding the River.</p>
+            <p>The Scots are every day at Gatehead which they take great care to prevent the enemie from burning themſelves being poſſeſt thereof, but the enemie Works there are all pulled down and demoliſhed, on<g ref="char:EOLhyphen"/>ly a partie are placed to prevent the enemie from iſſu<g ref="char:EOLhyphen"/>ing out of the Towne to deroy thoſe Suburbs, and houſes at Gatehead.</p>
+            <p>By all probabilitie, it is not any ways likely that Newcaſtle can hold out long; and the Scots do daily eapect when they will ſound a parley about the deli<g ref="char:EOLhyphen"/>vering up thereof.</p>
+            <p>Generall <hi>Leſhley</hi> is marched towards Durham, and the Marqueſſe of <hi>Argile</hi> goes along with him, and ma<g ref="char:EOLhyphen"/>ny of the Nobilitie: purſuing the Earle of Newcaſtle. A Regiment lies at Blyth, and two Regiments at Mor<g ref="char:EOLhyphen"/>peth, who doe often iſſue out to face Newcaſtle, and to keep the Countrie from being further waſted and ſpoiled by the enemy.</p>
+            <p>There are are two Regiments that lie at Sunderland and a Regiment about a mile off: In Sunderland are about 100 priſoner of the Earl of Newcaſtles Forces, Colonels, Captains and other Officers, for common men, they turn them away and will not charge them<g ref="char:EOLhyphen"/>ſelves with keeping of ſuch only thoſe of note.</p>
+            <p>Generall <hi>Leſhley</hi> is ſtill in purſuit of the Enemie, not permitting them to rally.</p>
+            <p>
+               <hi>Thus far the report of John Hardy.</hi>
+            </p>
+            <pb facs="tcp:111140:4"/>
+            <!-- PDF PAGE 22 -->
+            <p>
+               <hi>(There is a report that the Earl of Newcaſtle ſhould fall upon the Scots on Sund ay laſt neer underland, and that the Scots gave them a repulſe, ſlew and tooke priſouers a numerous company of them, &amp; utterly routed them, but this the Meſ<g ref="char:EOLhyphen"/>ſenger reporteth not, nor knoweth of it.)</hi>
+            </p>
+            <p>By the Committees and Commiſsioners of the honourable houſes of the Parliament of England.</p>
+         </div>
+         <div type="letter">
+            <head>To all Commanders and Officers in the Parliament ſervice both by ſea and land.</head>
+            <p>WHereas the bearer hereof Iohn Hardy was ſent from the Parliament to us in Scotland, and hath ſince continued with us
+<pb facs="tcp:111140:4"/>
+               <!-- PDF PAGE 22 -->untill now that hee is to returne to London, theſe are therefore to require all Comman<g ref="char:EOLhyphen"/>ders, Officers, and Souldiers, both by ſea and land, to ſuffer him to paſſe quietly without let or moleſtation. And Francis Dobſon Mr. of the willing Minde of Hull, is hereby deſi<g ref="char:EOLhyphen"/>red to give him free paſſage for London.</p>
+            <closer>
+               <signed>VVilliam Row, Secretary to the Commiſsioners.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:111140:5"/>
+            <!-- PDF PAGE 23 -->
+            <p>This preſent Munday Aprill the eighth, Letters were read in the Houſe of Commons from the Scots Army, certifying that there hath been a great battail between his Excellencies the Lord Generall <hi>Leſleys</hi> Army of Scots, and the Marqueſſe of Newcaſtle.</p>
+            <p>By which Letters it is cerfied, that the Scots have given the enemy a great overthrow.</p>
+            <p>Slain 500 dead upon the ground.</p>
+            <p>Taken a numerous company of them.</p>
+            <p>Divers of their chief Commanders.</p>
+            <p>All their Ordnance, bag and baggage, and utterly touted them; and are ſtill in purſuit of them. So that it is verily believed, that this wil prove the fatall blow in the North to the enemy: who it is verily believed will never be able to rally again.</p>
+            <div type="license">
+               <p>Publiſhed according to Order.</p>
+               <pb facs="tcp:111140:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="intruder" extent="1 page">
+                  <desc>〈1 page inserted from a different book〉</desc>
+               </gap>
+               <pb facs="tcp:111140:6"/>
+               <!--PDF PAGE 24-->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
